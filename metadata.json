@@ -1,0 +1,6 @@
+{
+  "name": "XL7",
+  "description": "Futuristic minimalist private terminal with a secret clock trigger. Features encrypted notes, AI integration, cyber utilities, and esports trackers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
